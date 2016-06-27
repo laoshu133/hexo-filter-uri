@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/laoshu133/hexo-filter-uri#readme",
   "devDependencies": {
+    "chai": "^3.5.0",
     "mocha": "^2.5.3"
   }
 }
